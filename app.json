@@ -1,10 +1,12 @@
 {
   "expo": {
+    "newArchEnabled": true,
     "scheme": "acme",
     "plugins": [
       "expo-router"
     ],
     "name": "jobs",
     "slug": "jobs"
+    
   }
 }
