@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     marginTop: SIZES.large,
     height: 50,
+    marginBottom : "5%"
   },
   searchWrapper: {
     flex: 1,
@@ -38,6 +39,7 @@ const styles = StyleSheet.create({
     width: "100%",
     height: "100%",
     paddingHorizontal: SIZES.medium,
+    
   },
   searchBtn: {
     width: 50,
@@ -46,6 +48,7 @@ const styles = StyleSheet.create({
     borderRadius: SIZES.medium,
     justifyContent: "center",
     alignItems: "center",
+    
   },
   searchBtnImage: {
     width: "50%",

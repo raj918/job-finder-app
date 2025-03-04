@@ -6,7 +6,17 @@
       "expo-router"
     ],
     "name": "jobs",
-    "slug": "jobs"
-    
+    "slug": "jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ba1ebd38-faef-4aef-84be-c7515fd1ce27"
+      }
+    },
+    "android": {
+      "package": "com.raj918.jobs"
+    }
   }
 }
